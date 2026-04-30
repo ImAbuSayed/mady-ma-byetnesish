@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا ليل يجمع أطياف الحنين
+> قلبي ينادي في صمت السنين
+> نار الشوق تكوي كل الحدود
+> ترجع روحي لأحضانك تعود
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
