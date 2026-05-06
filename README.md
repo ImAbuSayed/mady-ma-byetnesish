@@ -13,7 +13,7 @@
 | Lyric Writing Date | April 30, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/mady-ma-byetnesish/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Get License For Mady Ma Byetnesish](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Obtain a Music License for Mady Ma Byetnesish](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
